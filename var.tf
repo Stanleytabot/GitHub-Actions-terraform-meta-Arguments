@@ -10,5 +10,5 @@ variable "egressrules" {
 
 variable "my_instance_type"{
   type = string
-  default = "t2.micro"
+  default = "t2.medium"
 }
